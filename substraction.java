@@ -3,7 +3,7 @@ public class substraction {
 	    int x=50;
 	    int y=20;
 	    
-	        System.out.println("sum of x-y; " +(x-y));
+	        System.out.println("substraction of x-y; " +(x-y));
 	     }
     
 }
